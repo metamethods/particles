@@ -1,10 +1,8 @@
-# Particles
-
-<p align="center">
-  <img width="400px" src="assets/plugin.png">
-</p>
-
-A fairly simple plugin that I made in a day! Pretty much shows you all of the particles under a instance that you have select, and is sorted by how much it emits per second. This is a plugin thats mainly for [REx Reincarnated](https://www.roblox.com/games/8549934015/SUMMER-PT-1-REx-Reincarnated)
+<div align="center">
+	<img src="assets/plugin.png" width="128" alt="Plugin"/>
+	<h1>Particles</h1>
+	<p>A simple particle viewer for [REx Reincarnated](https://www.roblox.com/games/8549934015/SUMMER-PT-1-REx-Reincarnated) Ore Developers</p>
+</div>
 
 # How to use
 
