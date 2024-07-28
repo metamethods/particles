@@ -1,0 +1,9 @@
+{
+    "name": "particles",
+    "tree": {
+        "$path": "src",
+        "packages": {
+            "$path": "Packages"
+        }
+    }
+}
